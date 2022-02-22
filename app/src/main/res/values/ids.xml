@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="home_btn" type="id">home_btn</item>
+    <item name="go_btn" type="id">go_btn</item>
+    <item name="url_input" type="id">url_input</item>
+</resources>
